@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Game Search é uma ferramenta de links para buscar jogos online.
 
-- [Acesse o projeto finalizado, online](https://andrerollim.github.io/Site-de-apresentacao-pessoal/)
+- [Acesse o projeto finalizado, online](https://andrerollim.github.io/Apresentacao-de-jogos/)
 
 
 ## 🔖 Layout
