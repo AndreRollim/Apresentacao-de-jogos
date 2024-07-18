@@ -9,6 +9,7 @@ Programa exclusivo e gratuito. <br/>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-Aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -40,6 +41,10 @@ O Game Search é uma ferramenta de links para buscar jogos online.
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://jornadadodev.com.br/cursos/front-end/javascript). É necessário ter conta no [JornadaDEV](https://jornadadodev.com.br/cursos/) para acessá-lo.
+
+## :wave: Aprendizado
+
+Neste projeto aprendi a utilização de framworks para promover agilidade na utilização de ferramentas como CSS. Partindo da procura no [bootstrap](https://getbootstrap.com/) consegui aplicar modificações práticas melhorando o layout do projeto.
 
 ## :memo: Licença
 
