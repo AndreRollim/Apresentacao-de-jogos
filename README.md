@@ -9,13 +9,9 @@ Programa exclusivo e gratuito. <br/>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-Aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+   <a href="#-Aprendizado">Aprendizado</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
 
 <br>
 
@@ -33,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Game Search é uma ferramenta de links para buscar jogos online.
+O Game Search é uma ferramenta de links para apresentar jogos online. Possui opção de modo claro ou escuro dependendo da preferência do usuário.
 
 - [Acesse o projeto finalizado, online](https://andrerollim.github.io/Apresentacao-de-jogos/)
 
@@ -45,10 +41,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://jornadad
 ## :wave: Aprendizado
 
 Neste projeto aprendi a utilização de framworks para promover agilidade na utilização de ferramentas como CSS. Partindo da procura no [bootstrap](https://getbootstrap.com/) consegui aplicar modificações práticas melhorando o layout do projeto.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
 
 ---
 
